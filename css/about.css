@@ -8,7 +8,7 @@
     align-items: center;
 
     padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-bottom: 3rem;
 
     background-color: #C3979F;
 }
@@ -31,4 +31,13 @@
     padding-top: 2rem;
     width: 100%;
     height: auto;
+}
+
+@media screen and (min-width: 1024px) {
+    .about-image{
+        padding-top: 2rem;
+        width: 80%;
+        height: auto;
+    }
+
 }

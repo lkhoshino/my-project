@@ -1,4 +1,4 @@
-.main-content{
+.contact{
     width: 100%;
 
     box-sizing: border-box;
@@ -10,15 +10,11 @@
     padding-top: 2rem;
     padding-bottom: 2rem;
 
+    border: 2px solid black;
+
 }
 
-.main-title{
-    font-size: large;
-    padding-bottom: 2rem;
-    color:black;
-    font-weight: bolder;
-}
-
-.main-link{
-    padding:0.5rem;
+.contact-title{
+    font-weight: bold;
+    padding: 1rem;
 }
