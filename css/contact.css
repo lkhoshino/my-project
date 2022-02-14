@@ -12,9 +12,11 @@
 
     border: 2px solid black;
 
+    margin-bottom: 1rem;
+
 }
 
 .contact-title{
     font-weight: bold;
-    padding: 1rem;
+    padding-bottom: 1rem;
 }
