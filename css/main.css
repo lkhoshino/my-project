@@ -1,0 +1,26 @@
+.main-content{
+    width: 100%;
+
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+
+    
+}
+
+.main-title{
+    font-size: large;
+    padding-bottom: 2rem;
+    color:black;
+    font-weight: bolder;
+}
+
+.main-link{
+    padding:0.5rem;
+}
