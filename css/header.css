@@ -1,0 +1,39 @@
+.header-top {
+
+    width: 100%;
+
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+    background-color: #023C40;
+}
+
+h1{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: larger;
+    color: #0AD3FF;
+    font-weight: bold;
+}
+
+.header-nav{
+    color: #f0f2a6;
+    text-align: center;
+}
+
+.header-link {
+    font-size: 1.1rem;
+
+    display: inline-block;
+
+    margin-right: .7rem;
+    margin-bottom: 1.25rem;
+    margin-left: .7rem;
+}
+
