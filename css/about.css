@@ -36,8 +36,8 @@
 @media screen and (min-width: 1024px) {
     .about-image{
         padding-top: 2rem;
-        width: 80%;
-        height: auto;
+        width: 60%;
+        height: 40%;
     }
 
 }
