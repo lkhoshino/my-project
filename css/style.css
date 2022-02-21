@@ -1,3 +1,14 @@
+:root {
+    --header: #2B303A;
+    --footer: #2B303A;
+    --header-title: #EEE5E9;
+    --header-links: #eec6d8;
+
+    --about-background: #EEE5E9;
+    --about-title: #000000;
+}
+
+
 body {
     font-family: 'Open Sans', 'Roboto', sans-serif;
     

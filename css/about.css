@@ -10,14 +10,14 @@
     padding-top: 2rem;
     padding-bottom: 3rem;
 
-    background-color: #C3979F;
+    background-color: var(--about-background);
 }
 
 .about-title{
     padding-top: 1rem;
     padding-bottom: 1rem;
     font-size: large;
-    color: #78FFD6;
+    color: var(--about-title);
     font-weight: bold;
 }
 
