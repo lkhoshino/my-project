@@ -23,7 +23,7 @@ h1{
 }
 
 .header-nav{
-    color: var(#eec6d8);
+    color: var(--header-links);
     text-align: center;
 }
 
